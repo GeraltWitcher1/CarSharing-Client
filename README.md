@@ -6,4 +6,4 @@ This project consists of this and 2 other repositories:
 
 
 The system follows a 3-tier architecture and is structured as follows: 
-![alt text](https://github.com/GeraltWitcher1/Diagrams/blob/main/CarSharing/3-tier-model.svg?raw=true)
+![alt text](https://github.com/GeraltWitcher1/Diagrams/blob/main/CarSharing/3-tier-model.drawio.png?raw=true)
