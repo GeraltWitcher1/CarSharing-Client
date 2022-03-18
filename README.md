@@ -5,4 +5,5 @@ This project consists of this and 2 other repositories:
 2. https://github.com/GeraltWitcher1/CarSharing-Database - The database tier
 
 
-![alt text](https://github.com/GeraltWitcher1/Diagrams/blob/CarSharing/3-tier-model.svg?raw=true)
+The system follows a 3-tier architecture and is structured as follows: 
+![alt text](https://github.com/GeraltWitcher1/Diagrams/blob/main/CarSharing/3-tier-model.svg?raw=true)
